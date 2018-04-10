@@ -1,0 +1,17 @@
+{
+  "name": "garden-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Personal syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "garden",
+    "craio",
+    "theme"
+  ],
+  "repository": "https://github.com/craio/garden-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
