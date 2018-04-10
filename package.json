@@ -1,7 +1,7 @@
 {
   "name": "garden-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Personal syntax theme for Atom",
   "keywords": [
     "syntax",
